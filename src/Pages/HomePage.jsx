@@ -2,6 +2,9 @@ import React from "react";
 import text from "../assets/text";
 import tshirt from "../assets/shirt.jpg";
 import hero from "../../public/hero.jpg";
+import bestseller from "../assets/bestseller.avif";
+import NA1 from "../assets/NA1.avif";
+import se from "../assets/se.jpg";
 
 const HomePage = () => {
   return (
@@ -23,30 +26,43 @@ const HomePage = () => {
           </div>
         </div>
         <div className="grid grid-cols-3 gap-5 p-5">
-          <div className="h-96 bg-gradient-to-b from-orange-500 to-blue-950 rounded p-10">
+          <div className="h-full flex flex-col items-center bg-gradient-to-b from-orange-500 to-blue-950 rounded p-10">
             <p className="text-2xl font-bold">BestSellers</p>
             <p>Fan-Favorite T-Shirts</p>
-            <div className="flex gap-5 justify-center pt-50">
+            <img className="w-s rounded-2xl mt-10" src={bestseller} />
+            <div className="flex gap-5 justify-center pt-10">
               <button>SHOP BOYS</button>
               <button>SHOP GIRLS</button>
             </div>
           </div>
-          <div className=" h-96 bg-gradient-to-b from-blue-500  to-blue-950 rounded p-10">
+          <div className=" h-full bg-gradient-to-b from-blue-500  to-blue-950 rounded p-10">
             <p className="text-2xl font-bold">New Arrivals</p>
             <p>The Latest Styles</p>
-            <div className="flex gap-5 justify-center pt-50">
+            <img className="w-s rounded-2xl mt-10" src={NA1} />
+            <div className="flex gap-5 justify-center pt-10">
               <button className="text-black">SHOP BOYS</button>
               <button className="text-black">SHOP GIRLS</button>
             </div>
           </div>
-          <div className=" h-96 bg-gradient-to-b from-cyan-600 to-blue-950  rounded p-10">
+          <div className=" h-full flex flex-col items-center bg-gradient-to-b from-cyan-600 to-blue-950  rounded p-10">
             <p className="text-2xl font-bold">Summer Essentials</p>
             <p>Breezy T-shirts For Warmer Days</p>
-            <div className="flex gap-5 justify-center pt-50">
+            <img className="w-s rounded-2xl mt-10" src={se} />
+            <div className="flex gap-5 justify-center pt-10">
               <button>SHOP BOYS</button>
               <button>SHOP GIRLS</button>
             </div>
           </div>
+        </div>
+        <div className="h-96 rounded m-5  bg-yellow-700 flex justify-center flex-col">
+          <p className="font-black text-5xl mb-5">
+            WE MAKE SHIRTS FEEL COZY IN A BETTER WAY
+          </p>
+          <p>
+            By looking to the world's greatest designers-Nature-we create shirts
+            that feel natural to the touch and comfortable to wear.
+          </p>
+          <p className="text-2xl font-bold mt-5">AIDEN BEAR</p>
         </div>
       </div>
     </>
