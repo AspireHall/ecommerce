@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Black & White Striped Tee",
+    "description": "Classic crewneck tee with bold black and white stripes.",
+    "materials": ["100% Cotton"],
+    "price": 12.99,
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/B0D7RZDVCD.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Spider‑Man Sketch Tee",
+    "description": "White tee featuring a cool hand‑drawn Spider‑Man graphic.",
+    "materials": ["100% Cotton"],
+    "price": 12.99,
+    "imageURL": "https://fun.com/images/products/Spider-Man-Sketch-Tshirt.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Graphic Motif Tee",
+    "description": "Night‑blue tee with printed motif on front.",
+    "materials": ["100% Cotton"],
+    "price": 14.5,
+    "imageURL": "https://vertbaudet.com/t-shirt-night-blue.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Soft Heather Gray Tee",
+    "description": "Everyday soft crewneck in heather gray.",
+    "materials": ["60% Cotton", "40% Polyester"],
+    "price": 9.99,
+    "imageURL": "https://oldnavy.gap.com/browse/product/804216222.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Truck Camo Tee",
+    "description": "White tee with camo truck print on chest.",
+    "materials": ["100% Combed Ringspun Cotton"],
+    "price": 18.99,
+    "imageURL": "https://southernboyco.com/images/camo-truck-front.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Bright Light Blue Crew Tee",
+    "description": "Soft cotton jersey tee in bright light blue.",
+    "materials": ["100% Cotton"],
+    "price": 18.99,
+    "imageURL": "https://citythreads.com/images/bright-light-blue-tee.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Cream Appliqué Text Tee",
+    "description": "Cream tee with stylish text appliqué.",
+    "materials": ["100% Cotton"],
+    "price": 22.5,
+    "imageURL": "https://mayoral.com/images/cream-text-applique.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Graphic Logo Tee",
+    "description": "Off‑white tee featuring a graphic logo print.",
+    "materials": ["60% Cotton", "40% Polyester"],
+    "price": 17.99,
+    "imageURL": "https://target.com/images/mtv-icon-collage-logo.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Premium Bamboo Tee",
+    "description": "Large‑fit tee made from bamboo fiber for added softness.",
+    "materials": ["Bamboo"],
+    "price": 24.99,
+    "imageURL": "https://bellabubear.com/images/bamboo-kids-tshirt.jpg"
+  },
+  {
+    "id": 10,
+    "title": "NLE Choppa Graphic Tee",
+    "description": "Bold graphic tee featuring NLE Choppa artwork.",
+    "materials": ["100% Cotton"],
+    "price": 16.99,
+    "imageURL": "https://walmart.com/images/nle-choppa-kids-tee.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Grey Ghost Soft Tee",
+    "description": "Machine‑washed jersey tee in heather grey.",
+    "materials": ["60% Cotton", "40% Polyester"],
+    "price": 9.99,
+    "imageURL": "https://oldnavy.gap.com/browse/product/grey-ghost-tee.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Anchor Graphic Tee",
+    "description": "Nautical anchor print on bright cotton tee.",
+    "materials": ["60% Cotton", "40% Polyester"],
+    "price": 9.99,
+    "imageURL": "https://oldnavy.gap.com/browse/product/anchor-graphic-tee.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Bright White Basic Tee",
+    "description": "Plain clean white tee for versatile wear.",
+    "materials": ["100% Cotton"],
+    "price": 9.99,
+    "imageURL": "https://oldnavy.gap.com/browse/product/bright-white-tee.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Road Blue Cotton Tee",
+    "description": "Soft washed cotton tee in vibrant road blue.",
+    "materials": ["100% Cotton"],
+    "price": 18.99,
+    "imageURL": "https://citythreads.com/images/road-blue-tee.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Red Sensory‑Friendly Tee",
+    "description": "Tagless tee designed for sensory comfort.",
+    "materials": ["100% Cotton"],
+    "price": 18.99,
+    "imageURL": "https://citythreads.com/images/red-sensory-tee.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Elf Green Lightweight Tee",
+    "description": "Bright elf green tee, lightweight cotton.",
+    "materials": ["100% Cotton"],
+    "price": 18.99,
+    "imageURL": "https://citythreads.com/images/elf-green-tee.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Charcoal Basic Tee",
+    "description": "Essential crewneck tee in charcoal.",
+    "materials": ["100% Cotton"],
+    "price": 18.99,
+    "imageURL": "https://citythreads.com/images/charcoal-tee.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Smurf Blue Cotton Tee",
+    "description": "Cool smurf blue tee in soft cotton.",
+    "materials": ["100% Cotton"],
+    "price": 18.99,
+    "imageURL": "https://citythreads.com/images/smurf-blue-tee.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Midnight Navy Tee",
+    "description": "Classic navy tee for everyday wear.",
+    "materials": ["100% Cotton"],
+    "price": 18.99,
+    "imageURL": "https://citythreads.com/images/midnight-navy-tee.jpg"
+  },
+  {
+    "id": 20,
+    "title": "White Oversized Bamboo Tee",
+    "description": "Loose‑fit bamboo tee, soft and breathable.",
+    "materials": ["Bamboo"],
+    "price": 24.99,
+    "imageURL": "https://bellabubear.com/images/bamboo-oversized-tee.jpg"
+  }
+]

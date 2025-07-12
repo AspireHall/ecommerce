@@ -1,7 +1,4 @@
-import React from "react";
-import bear from "../../public/teddy.jpg";
-
-export const Navbar = () => {
+function Navbar() {
   return (
     <div className="flex w-full h-10 bg-amber-400 justify-center align-middle">
       <ul className="grid-cols-5 flex justify-center items-center bg-blue-500 w-full text-white">
@@ -14,4 +11,6 @@ export const Navbar = () => {
       </ul>
     </div>
   );
-};
+}
+
+export default Navbar;
